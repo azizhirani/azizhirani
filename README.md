@@ -30,7 +30,6 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azizhirani&show_icons=true&locale=en&theme=transparent" alt="azizhirani" /></p>
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=azizhirani&theme=transparent&mode=daily" alt="azizhirani" /></p>
-
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
