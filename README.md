@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azizhirani&label=Profile%20views&color=0e75b6&style=flat" alt="azizhirani" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azizhirani&label=Profile%20views&color=red&style=flat" alt="azizhirani" /> </p>
 
 <h1 align="center">Hi 👋, I'm Aziz Hirani</h1>
 <h3 align="center">MERN stack developer from India</h3>
