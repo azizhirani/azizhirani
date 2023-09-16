@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [mhfm](mhfm)
 
-
+<hr>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -31,6 +31,7 @@
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=azizhirani&theme=transparent&mode=daily" alt="azizhirani" /></p>
 
+<hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/azizmh_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azizmh_007" height="30" width="40" /></a>
