@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aziz Hirani</h1>
 <h3 align="center">MERN stack developer from India</h3>
 
+![](https://github.com/azizhirani/azizhirani/cat-computer.gif) 
 
 - 🔭 I’m currently working on **PowerApps**
 
