@@ -3,8 +3,9 @@
 <h1 align="center">Hi 👋, I'm Aziz Hirani</h1>
 <h3 align="center">MERN stack developer from India</h3>
 
-![cat-computer](https://github.com/azizhirani/azizhirani/assets/61305321/241e4394-e362-49e3-b5cc-189389a62d19)
-
+<p align="center"> 
+<img src="https://github.com/azizhirani/azizhirani/assets/61305321/241e4394-e362-49e3-b5cc-189389a62d19"/>
+</p>
 
 - 🔭 I’m currently working on **PowerApps**
 
@@ -19,8 +20,7 @@
 
 - 📫 How to reach me **aziz.mhhirani@gmail.com**
 
-- 📄 Know about my experiences [mhfm](mhfm)
-
+<!-- - 📄 Know about my experiences -->
 <hr>
 
 <h3 align="center">Languages and Tools:</h3>
