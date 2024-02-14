@@ -1,16 +1,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizhirani&label=Profile%20views&color=red&style=flat" alt="azizhirani" /> </p>
 
 <h1 align="center">Hi 👋, I'm Aziz Hirani</h1>
-<h3 align="center">MERN stack developer from India</h3>
+<h3 align="center">Software developer from India</h3>
 
 <p align="center"> 
 <img src="https://github.com/azizhirani/azizhirani/assets/61305321/241e4394-e362-49e3-b5cc-189389a62d19"/>
 </p>
 
-- 🔭 I’m currently working on **PowerApps**
+- 🔭 I’m currently working on **React->NextJs** 
 
-- 🌱 I’m currently learning **AI models.....**
-<!-- - 👯 I’m looking to collaborate on AI model collab projects -->
+- 🌱 I’m currently learning **AI/ML -> LLM models**
+  
+-👯 I’m looking to collaborate on LLM modeling collab projects 
 
 <!-- - 👨‍💻 All of my projects are available at [mkcugkc](mkcugkc) -->
 
